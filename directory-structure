@@ -1,0 +1,9 @@
+.
+├── dags
+│ └── write_to_gcs.py
+├── plugins
+│ └── custom_operators
+│ └── gcs_operators.py
+├── Dockerfile
+├── requirements.txt
+└── values.yaml
